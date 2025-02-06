@@ -1,0 +1,30 @@
+h1{
+   text-align: center;
+}
+
+
+
+.clockBox{
+    
+    height: auto;
+    width: 200px;
+    text-align: center;
+    padding:10px;
+    margin:auto;
+    border:solid black 3px;
+    background-color: yellow;
+    
+   
+}
+.dateBox{
+    
+    height: auto;
+    width: 200px;
+    text-align: center;
+    padding:10px;
+    margin:10px auto;
+    border:solid black 3px;
+    background-color: yellow;
+    
+   
+}
